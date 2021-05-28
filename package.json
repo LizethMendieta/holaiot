@@ -1,0 +1,19 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "internet de las cosas prueba dos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizethMendieta/iot.git"
+  },
+  "author": "Lizeth Mendieta Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LizethMendieta/iot/issues"
+  },
+  "homepage": "https://github.com/LizethMendieta/iot#readme"
+}
