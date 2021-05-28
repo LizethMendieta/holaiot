@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "proyectoAPI",
+			"path": "..\\..\\proyectoAPI"
+		},
+		{
+			"name": "APIsensores-1",
+			"path": "..\\..\\APIsensores-1"
+		}
+	],
+	"settings": {}
+}
